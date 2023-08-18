@@ -73,7 +73,8 @@ body{
   font-size: 20px;
   margin-bottom: 10px #4adb07;
 }
-/*body{
+/* imagem com marca'd agua 
+body{
   background:url("alessandro.png") no-repeat; 
   background-size: 100% 100%;
   filter:alpha(opacity=50);
